@@ -1,6 +1,6 @@
 # Design
 
-These are my first try at using Figma, so I made these posters
+This is my first try at using Figma, so I made these posters
 
 here are they ..
 
